@@ -45,12 +45,16 @@ The model is trained on a dataset of labeled images and outputs predictions acro
 ##  Getting Started
 
 ### Requirements
+Make sure you have the following installed:
+
 - Python 3.8+
 - TensorFlow / Keras
 - NumPy
 - scikit‑learn
-- pickle
+- OpenCV
+- Matplotlib
+- pickle (built‑in with Python)
 
-Install dependencies:
+Install dependencies with:
 ```bash
-pip install tensorflow numpy scikit-learn
+pip install tensorflow numpy scikit-learn opencv-python matplotlib
