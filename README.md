@@ -55,6 +55,7 @@ Make sure you have the following installed:
 - Matplotlib
 - pickle (built‑in with Python)
 
-Install dependencies with:
-```bash
-pip install tensorflow numpy scikit-learn opencv-python matplotlib
+### File runing sequence
+- First: array.py (Convert dataset to array and store in pickle formate)
+- Second: model.py (Fit and save the model in 'mask.h5' )
+- Third: test.py (For testing the model)
