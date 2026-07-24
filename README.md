@@ -47,7 +47,7 @@ The model is trained on a dataset of labeled images and outputs predictions acro
 ### Requirements
 Make sure you have the following installed:
 
-- Python 3.8+
+- Python 3.8+ (Recommended: Python 3.12)
 - TensorFlow / Keras
 - NumPy
 - scikit‑learn
